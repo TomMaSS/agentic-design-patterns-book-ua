@@ -1,6 +1,6 @@
 # Agentic Design Patterns: Практичний посібник зі створення інтелектуальних систем
 
-![][image0]
+![](Assets/title-image.jpg)
 
 ## 📥 Завантажити
 
@@ -138,5 +138,3 @@
 ---
 
 _Останнє оновлення: Лютий 2026_
-
-[image0]: Assets/title-image.jpg

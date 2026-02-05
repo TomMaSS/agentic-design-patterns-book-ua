@@ -14,37 +14,37 @@ AgentSpace — це платформа, розроблена для спроще
 
 Рисунок 1 ілюструє, як отримати доступ до AgentSpace, вибравши AI Applications з Google Cloud Console.
 
-![][image1]
+![](../Assets/appendix-d-image1.png)
 
 **Рис. 1:** Як використовувати Google Cloud Console для доступу до AgentSpace
 
 Ваш агент може бути з'єднаний з різними сервісами, включаючи Calendar, Google Mail, Workaday, Jira, Outlook та Service Now (див. рис. 2).
 
-![][image6]
+![](../Assets/appendix-d-image6.png)
 
 **Рис. 2:** Інтеграція з різними сервісами, включаючи Google та сторонні платформи
 
 Потім агент може використовувати власний промпт, вибраний з галереї готових промптів, надані Google, як показано на рис. 3.
 
-![][image5]
+![](../Assets/appendix-d-image5.png)
 
 **Рис. 3:** Галерея готових промптів Google
 
 Як альтернатива, ви можете створити власний промпт, як на рис. 4, який потім буде використовуватися вашим агентом.
 
-![][image4]
+![](../Assets/appendix-d-image4.png)
 
 **Рис. 4:** Налаштування промпту агента
 
 AgentSpace пропонує низку продвинутих функцій, таких як інтеграція з сховищами даних для зберігання ваших власних даних, інтеграція з Google Knowledge Graph або з вашим приватним Knowledge Graph, веб-інтерфейс для надання доступу до вашого агента через веб та аналітика для моніторингу використання та багато іншого (див. рис. 5).
 
-![][image2]
+![](../Assets/appendix-d-image2.png)
 
 **Рис. 5:** Продвинуті можливості AgentSpace
 
 По завершенні буде доступний інтерфейс чату AgentSpace (рис. 6).
 
-![][image3]
+![](../Assets/appendix-d-image3.png)
 
 **Рис. 6:** Користувальницький інтерфейс AgentSpace для початку чату з вашим агентом
 
@@ -59,12 +59,12 @@ AgentSpace пропонує низку продвинутих функцій, т
 1. [Create a no-code agent with Agent Designer](https://cloud.google.com/agentspace/agentspace-enterprise/docs/agent-designer)
 2. [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)
 
-[image1]: ../Assets/appendix-d-image1.png
-[image2]: ../Assets/appendix-d-image2.png
-[image3]: ../Assets/appendix-d-image3.png
-[image4]: ../Assets/appendix-d-image4.png
-[image5]: ../Assets/appendix-d-image5.png
-[image6]: ../Assets/appendix-d-image6.png
+
+
+
+
+
+
 
 ---
 
